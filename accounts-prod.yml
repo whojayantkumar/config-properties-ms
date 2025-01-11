@@ -1,0 +1,12 @@
+build:
+  version: "P1.0"
+
+
+accounts:
+  message: "Welcome to Eazybank accounts releated Prod APIs"
+  contactDetails:
+    name: "Jayant Kumar"
+    email: "whojayantkumar@gmail.com"
+  onCallSupport:
+    - (+91) 7023210438
+    - (+91) 7559399976
