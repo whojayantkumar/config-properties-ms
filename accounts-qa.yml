@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Eazybank accounts releated QA APIs"
   contactDetails:
     name: "Jayant Kumar"
-    email: "whojayantkumar@gmail.com"
+    email: "{cipher}f5e574e6effe1a556fbe66272fbfb0a7d8e3808dd51e52cca8b16b156dacfe63c32a0fc02bc9f61234f9ef295194b53a"
   onCallSupport:
     - (+91) 7023210438
     - (+91) 7559399976
