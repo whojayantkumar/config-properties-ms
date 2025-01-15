@@ -1,7 +1,7 @@
 build:
   version: "Q1.0"
 
-accounts:
+loans:
   message: "Welcome to Eazybank Loans releated QA APIs"
   contactDetails:
     name: "Jayant Kumar"

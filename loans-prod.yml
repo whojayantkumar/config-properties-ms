@@ -2,7 +2,7 @@ build:
   version: "P1.0"
 
 
-accounts:
+loans:
   message: "Welcome to Eazybank loans releated Prod APIs"
   contactDetails:
     name: "Jayant Kumar"
