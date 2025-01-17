@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to Eazybank loans releated PROD APIs"
+  message: "Welcome to Eazybank loans releated webhook APIs"
   contactDetails:
     name: "Jayant Kumar"
     email: "{cipher}f5e574e6effe1a556fbe66272fbfb0a7d8e3808dd51e52cca8b16b156dacfe63c32a0fc02bc9f61234f9ef295194b53a"
